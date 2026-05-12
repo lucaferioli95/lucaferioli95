@@ -33,4 +33,4 @@ A storefront I'm designing, building, and photographing for. Customers browse, p
 
 ---
 
-*Engineer first, Photographer for passion, Developer by necessity — and increasingly for fun.*
+*Engineer first, Photographer for passion, Developer by necessity (but having fun in the process).*
