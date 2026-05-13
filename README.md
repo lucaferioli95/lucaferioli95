@@ -11,7 +11,7 @@ I'm a London-based engineer and amatuer photographer learning to build the tools
 
 A storefront I'm designing, building, and photographing for. Customers browse, purchase, and download original photography. Currently wiring up payments and finishing the admin tooling before public launch.
 
-> 🚧 Repository currently private — happy to share access on request.
+> 🚧 Currently in active development — payments and email integrations in progress before public launch.
 
 ---
 
